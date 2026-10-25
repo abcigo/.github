@@ -42,6 +42,6 @@ While our client production code is strictly sandboxed in private repositories, 
 
 We integrate into existing sprint cycles or execute turn-key enterprise builds on fixed SLAs.
 
-- **Direct Desk:** engineering@abcigo.com
-- **Security Disclosures:** security@abcigo.com
+- **Direct Desk:** info@abcigo.com
+- **Security Disclosures:** info@abcigo.com
 - **Operating Model:** White-Label Retainers & Dedicated Pod Allocations
